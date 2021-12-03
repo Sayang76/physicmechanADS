@@ -1,0 +1,32 @@
+{
+    "More":
+    [
+  {
+   "id":1,
+    "judul":"GILABS STUDIO",
+    "image":"https://blogger.googleusercontent.com/img/a/AVvXsEixjmL54LbEy_PGagE_-qvRwbHcvjNNtPas7iknce8Kfm9SzqKeybFLcOGO_eWScUkj0txgyujy0sw-GnXCZdVA_yCl7NQMS0bZ3I1WzbclfJXI7PFsxSS8Ak5x9HYoNEUDuOU4WriH6EFWOUVXLuHEI1mm6333h-mISUNYdD5wpr5hxu93oatrpj3UNA=s920",
+    "link":"https://play.google.com/store/apps/developer?id=GILABS+STUDIO"
+  }
+],
+
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.physicsMechanic.EBooks",
+        "pengaturan_iklan":"1",
+        "startappid":"12345678",
+        "admob_inter": "ca-app-pub-5179504148795507/8020551164",
+        "admob_native": "ca-app-pub-5179504148795507/5074630104",
+        "admob_open": "ca-app-pub-5179504148795507/5394387825",
+        "fan_inter": "681545408591412_999151030164183",
+        "fan_native_banner": "681545408591412_2870610639684870",
+        "interval": 2,
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+        }
+    ]
+
+}
